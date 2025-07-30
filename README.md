@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Madipadige-ManishKumar
 - 👀 I’m interested in  Web Development ,Problem Solving ,Machine Learning 
-- 🌱 I’m currently learning  MERN stack 
 - 💞️ I’m looking to collaborate on  MERN projects and ML projects
 - 📫 How to reach me oomanish459@gmail.com
 
