@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar Madipadige</h1>
 <h3 align="center">A passionate frontend develoAspiring B.Tech graduate in Computer Science and Engineering, class of 2027. Eager to leverage my foundational knowledge and skills in the tech domain. Currently seeking opportunities to gain hands-on experience and contribute to innovative projects. Committed to continuous learning and professional growth within the industry. Ready to apply my academic background and enthusiasm to drive impactful results.per from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madipadige-manishkumar&label=Profile%20views&color=0e75b6&style=flat" alt="madipadige-manishkumar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madipadige-manishkumar" alt="madipadige-manishkumar" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://manish-portfolio-kb9k.vercel.app/](https://manish-portfolio-kb9k.vercel.app/)
 
