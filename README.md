@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar Madipadige</h1>
-<h3 align="center">A passionate frontend develoAspiring B.Tech graduate in Computer Science and Engineering, class of 2027. Eager to leverage my foundational knowledge and skills in the tech domain. Currently seeking opportunities to gain hands-on experience and contribute to innovative projects. Committed to continuous learning and professional growth within the industry. Ready to apply my academic background and enthusiasm to drive impactful results.per from India</h3>
+<h3 align="center">A passionate Full Stack develoAspiring B.Tech graduate in Computer Science and Engineering, class of 2027. Eager to leverage my foundational knowledge and skills in the tech domain. Currently seeking opportunities to gain hands-on experience and contribute to innovative projects. Committed to continuous learning and professional growth within the industry. Ready to apply my academic background and enthusiasm to drive impactful results.per from India</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://manish-portfolio-kb9k.vercel.app/](https://manish-portfolio-kb9k.vercel.app/)
