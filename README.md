@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Manish Kumar Madipadige</h1>
-<h3 align="center">A passionate Full Stack develoAspiring B.Tech graduate in Computer Science and Engineering, class of 2027. Eager to leverage my foundational knowledge and skills in the tech domain. Currently seeking opportunities to gain hands-on experience and contribute to innovative projects. Committed to continuous learning and professional growth within the industry. Ready to apply my academic background and enthusiasm to drive impactful results.per from India</h3>
+# 👋 Hi there, I'm **Manish Kumar Madipadige**
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;SDE+Intern;MERN+Stack+Developer;AI+%26+Web+Dev+Enthusiast;Always+Learning+New+Tech)
+
+<img src="https://komarev.com/ghpvc/?username=Madipadige-ManishKumar53&label=Profile+Views&color=000000&style=for-the-badge" alt="Profile Views" />
+
+</div>
 
 
 - 👨‍💻 All of my projects are available at [https://manish-portfolio-kb9k.vercel.app/](https://manish-portfolio-kb9k.vercel.app/)
