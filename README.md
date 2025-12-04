@@ -1,7 +1,4 @@
-# 👋 Hi there, I'm **Manish Kumar Madipadige**
-
-<h3 align="center">A passionate frontend develoAspiring B.Tech graduate in Computer Science and Engineering, class of 2027. Eager to leverage my foundational knowledge and skills in the tech domain. Currently seeking opportunities to gain hands-on experience and contribute to innovative projects. Committed to continuous learning and professional growth within the industry. Ready to apply my academic background and enthusiasm to drive impactful results.per from India</h3>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Manish+%E2%80%94+A+Passionate+Developer;I+Build+Web+Apps+That+Make+an+Impact;I+Believe+in+Writing+Code+That%E2%80%99s+Clean%2C+Scalable+%26+Meaningful;Always+Learning.+Always+Improving.+Always+Creating.)](https://git.io/typing-svg)
 
 
 
