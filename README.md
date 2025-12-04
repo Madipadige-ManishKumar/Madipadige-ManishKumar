@@ -1,4 +1,14 @@
+
+![Header](./your-header-image-name.png)
+
+#
+
+##
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Manish+%E2%80%94+A+Passionate+Developer;I+Build+Web+Apps+That+Make+an+Impact;I+Believe+in+Writing+Code+That%E2%80%99s+Clean%2C+Scalable+%26+Meaningful;Always+Learning.+Always+Improving.+Always+Creating.)](https://git.io/typing-svg)
+
+##
+
 
 
 
