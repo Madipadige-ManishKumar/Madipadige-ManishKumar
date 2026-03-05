@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Manish+%E2%80%94+A+Passionate+Developer;I+Build+Web+Apps+That+Make+an+Impact;I+Believe+in+Writing+Code+That%E2%80%99s+Clean%2C+Scalable+%26+Meaningful;Always+Learning.+Always+Improving.+Always+Creating.)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madipadige-manishkumar&label=Profile%20views&color=0e75b6&style=flat" alt="madipadige-manishkumar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=madipadige-manishkumar&label=Profile%20views&color=0e75b6&style=flat" alt="madipadige-manishkumar" /> </p>
 
 ##
 <br><br>
@@ -94,24 +94,12 @@
 
 #
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madipadige-manishkumar&show_icons=true&locale=en&layout=compact" alt="madipadige-manishkumar" /></p>
+
 
  &nbsp;
  
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=madipadige-manishkumar&" alt="madipadige-manishkumar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madipadige-manishkumar&" alt="madipadige-manishkumar" /></p>
 
-<br/>
-<br/>
-<br/>
-
-<br/>
-<br/>
-<br/>
-
-
-<br/>
-<br/>
-<br/>
 
 
 
