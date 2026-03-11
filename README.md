@@ -17,9 +17,6 @@
 [![An image of @madipadigemanishkumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madipadigemanishkumar)](https://holopin.io/@madipadigemanishkumar)
 
 
-
-##
-
 ##
 <br><br>
 
@@ -43,7 +40,6 @@
   **I think if I wasn’t a developer, I’d be a video editor!**
 
 
-#
 
 
 
@@ -54,7 +50,7 @@
 <a href="https://www.leetcode.com/oomanish459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oomanish459" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/oomanii0b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="oomanii0b9" height="30" width="40" /></a>
 </p>
-#
+
 
 ## 🎨 **Languages & Tools**
 
@@ -112,17 +108,6 @@
  &nbsp;
  
 <p align="center" ><img align="center"     src="https://github-readme-streak-stats.herokuapp.com/?user=madipadige-manishkumar&" alt="madipadige-manishkumar" /></p>
-
-
-
-
-<br/>
-<br/>
-<br/>
-#
-
-
-
 
 
 
