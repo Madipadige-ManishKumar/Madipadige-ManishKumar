@@ -10,9 +10,22 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=madipadige-manishkumar&label=Profile%20views&color=0e75b6&style=flat" alt="madipadige-manishkumar" /> </p>
 
 ##
+
+
+
+
+[![An image of @madipadigemanishkumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madipadigemanishkumar)](https://holopin.io/@madipadigemanishkumar)
+
+
+
+##
+
+##
 <br><br>
 
 <img align="right" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="350" height="250" alt="Coder GIF" />
+
+
 
 ### 👋 About Me
 
@@ -98,7 +111,7 @@
 
  &nbsp;
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madipadige-manishkumar&" alt="madipadige-manishkumar" /></p>
+<p align="center" ><img align="center"     src="https://github-readme-streak-stats.herokuapp.com/?user=madipadige-manishkumar&" alt="madipadige-manishkumar" /></p>
 
 
 
@@ -108,7 +121,7 @@
 <br/>
 #
 
-[![An image of @madipadigemanishkumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madipadigemanishkumar)](https://holopin.io/@madipadigemanishkumar)
+
 
 
 
