@@ -42,15 +42,25 @@
 
 
 
+<h3 align="center">Connect with me</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/manish-kumar-madipadige" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-kumar-madipadige" height="30" width="40" /></a>
-<a href="https://kaggle.com/mmanishkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mmanishkumar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/oomanish459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oomanish459" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/oomanii0b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="oomanii0b9" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/manish-kumar-madipadige" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://kaggle.com/mmanishkumar" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="35" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.leetcode.com/oomanish459" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="35" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://auth.geeksforgeeks.org/user/oomanii0b9" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="35" />
+  </a>
 </p>
-
 
 ## 🎨 **Languages & Tools**
 
@@ -107,7 +117,9 @@
 
  &nbsp;
  
-<p align="center" ><img align="center"     src="https://github-readme-streak-stats.herokuapp.com/?user=madipadige-manishkumar&" alt="madipadige-manishkumar" /></p>
+<p align="center" >
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=madipadige-manishkumar&theme=tokyonight&hide_border=true" alt="Manish's Streak Stats" />
+</p>
 
 
 
